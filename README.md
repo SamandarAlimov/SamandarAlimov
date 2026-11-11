@@ -9,6 +9,11 @@ I am Samandar Otabek, also known professionally as **Samandar Alimov**. I build 
 - **Personal website and portfolio:** https://samandarotabek.uz/
 - **Full public profile (name variants and career):** https://samandarotabek.uz/about.html
 - **Professional LinkedIn:** https://www.linkedin.com/in/samandarotabek/
+- **YouTube:** https://www.youtube.com/@SamandarOtabek
+- **Telegram:** https://t.me/SamandarOtabek
+- **Instagram:** https://www.instagram.com/SamandarOtabek/
+- **Facebook:** https://www.facebook.com/SamandarOtabek
+- **X (Twitter):** https://twitter.com/SamandarOtabek
 - **Alsamos (separate company and product ecosystem):** https://www.alsamos.com/
 
 ### Selected work
@@ -30,4 +35,4 @@ You may find me in professional contexts as **Samandar**, **Samandar Otabek**, *
 
 **One canonical personal website: [samandarotabek.uz](https://samandarotabek.uz/)**
 
-> This README includes only publicly corroborated professional links. Unconfirmed social handles are intentionally omitted.
+> Social profile handles above are provided by the channel owner through a screenshot of the YouTube About page (2026-11-11). Their current live accessibility was not independently confirmed; the professional portfolio remains the canonical identity source.
