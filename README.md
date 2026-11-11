@@ -1,8 +1,8 @@
 # Samandar Otabek · Samandar Alimov
 
-**Software Developer · React / TypeScript / Flutter · Founder & Product Builder at Alsamos**
+**Software Developer · React / TypeScript / Flutter · Founder & CEO of Alsamos, SAMOS, ATEAM and Alimov's**
 
-I am Samandar Otabek, also known professionally as **Samandar Alimov**. I build web and cross-platform software with a focus on accessible interfaces, practical product design, and maintainable engineering.
+I am Samandar Otabek, also known professionally as **Samandar Alimov**. I build web and cross-platform software with a focus on accessible interfaces, practical product design, and maintainable engineering. I **graduated from TMC Institute of Tashkent in Economics in 2026**.
 
 ### My official links
 
@@ -28,7 +28,7 @@ Other reported collaborative client and team projects are documented in my [port
 
 ### Find me / Meni toping
 
-You may find me in professional contexts as **Samandar**, **Samandar Otabek**, **Samandar Alimov** or **SamandarAlimov**. My personal brand and Alsamos are connected through my founder role, but they are distinct entities. **SAMOS** was an earlier education-focused initiative and is not a new name for the personal portfolio.
+You may find me in professional contexts as **Samandar**, **Samandar Otabek**, **Samandar Alimov** or **SamandarAlimov**. My personal brand and my ventures remain distinct. **I am the Founder & CEO of Alsamos, SAMOS, ATEAM and Alimov's**, as confirmed in my professional biography. The ventures are separate names; exact legal registration, operating status and founding dates of SAMOS, ATEAM and Alimov's are not claimed here.
 
 📍 Uzbekistan · [Portfolio & contact](https://samandarotabek.uz/#contact)
 
@@ -37,3 +37,5 @@ You may find me in professional contexts as **Samandar**, **Samandar Otabek**, *
 **One canonical personal website: [samandarotabek.uz](https://samandarotabek.uz/)**
 
 > Social profile handles above are provided by the channel owner through a screenshot of the YouTube About page (2026-11-11). Their current live accessibility was not independently confirmed; the professional portfolio remains the canonical identity source.
+
+> Professional biography clarification (2026-11-11): TMCI graduated 2026, not current student. Founder/CEO roles recorded in private source `SamandarAlimov/SamandarOtabek` (person/Founder-CEO-Roles-2026). More detailed legal and operational assertions are intentionally not invented.
