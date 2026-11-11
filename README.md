@@ -10,7 +10,8 @@ I am Samandar Otabek, also known professionally as **Samandar Alimov**. I build 
 - **Full public profile (name variants and career):** https://samandarotabek.uz/about.html
 - **Professional LinkedIn:** https://www.linkedin.com/in/samandarotabek/
 - **YouTube:** https://www.youtube.com/@SamandarOtabek
-- **Telegram:** https://t.me/SamandarOtabek
+- **Telegram (personal):** https://t.me/SamandarOtabek
+- **Telegram (channel):** https://t.me/Samandar_Otabek
 - **Instagram:** https://www.instagram.com/SamandarOtabek/
 - **Facebook:** https://www.facebook.com/SamandarOtabek
 - **X (Twitter):** https://twitter.com/SamandarOtabek
